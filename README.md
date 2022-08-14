@@ -12,3 +12,8 @@ pull to remote to local
 fetch will only take the update from the remote to local it will not merge
 
 clone it not only checkout the working copy and also mirror the complete repositiry
+
+checkout command as the 2 purpose 
+checkout - used for the undo the changes 
+checkout is used to merge the directory
+
