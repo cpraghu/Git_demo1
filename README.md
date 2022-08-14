@@ -15,5 +15,5 @@ clone it not only checkout the working copy and also mirror the complete reposit
 
 checkout command as the 2 purpose 
 checkout - used for the undo the changes 
-checkout is used to merge the directory
+checkout is used to merge the branches 
 
