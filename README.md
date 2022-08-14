@@ -17,3 +17,8 @@ checkout command as the 2 purpose
 checkout - used for the undo the changes 
 checkout is used to merge the branches 
 
+
+
+
+all is u need to do is before pushhing to remote repo first thing you need to do pull request 
+
