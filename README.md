@@ -8,3 +8,5 @@ developer has the code to change according the requirement
 
 push to local to remote 
 pull to remote to local
+
+fetch will only take the update from the remote to local it will not merge
